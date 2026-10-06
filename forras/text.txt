@@ -1,0 +1,8 @@
+$"Kategória\n\t{}\n" +
+$"Képátló\n\t{}\n" +
+$"Felbontás\n\t{}\n" +
+$"Processzor\n\t{}\n" +
+$"RAM\n\t{} GB\n" +
+$"Háttértár(ak)\n\t{}" +
+$"\nOperációs rendszer\n\t{}" +
+$"\nÁr\n\t{} Ft";
